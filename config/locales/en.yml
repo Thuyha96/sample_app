@@ -1,49 +1,29 @@
-# Files in the config/locales directory are used for internationalization
-# and are automatically loaded by Rails. If you want to use locales other
-# than English, add the necessary files in this directory.
-#
-# To use the locales, use `I18n.t`:
-#
-#     I18n.t 'hello'
-#
-# In views, this is aliased to just `t`:
-#
-#     <%= t('hello') %>
-#
-# To use a different locale, set it with `I18n.locale`:
-#
-#     I18n.locale = :es
-#
-# This would use the information in config/locales/es.yml.
-#
-# The following keys must be escaped otherwise they will not be retrieved by
-# the default I18n backend:
-#
-# true, false, on, off, yes, no
-#
-# Instead, surround them with single quotes.
-#
-# en:
-#   'true': 'foo'
-#
-# To learn more, please read the Rails Internationalization guide
-# available at http://guides.rubyonrails.org/i18n.html.
-
 en:
   static_pages:
-    about:
-      about: "About"
-      book: "book"
-      screencast_series: "screencast series"    
-      content_html: "The %{link1} is a %{link2} and %{link3} to teach web development with %{link4}. This is the sample application for the tutorial."
-    
+    home:
+      home: "home"
+      This_is: "This is the home page for the "
+      sample_application: "sample application."
+      Welcome_to: "Welcome to the Sample App"
+      sign_up: "Sign up"
     help:
       help: "Help"
-      rails_ttr_hp: "Rails Tutorial help page"
-      ror_ttr: "Ruby on Rails Tutorial"
-      content_html: "Get help on the Ruby on Rails Tutorial at the %{link1}. To get help on this sample app, see the %{link2} book."
-      
-    home:
+      word4: The help for ROR
+      word5: The book for ROR
+    about:
+      word1: The Ruby on Rails Tutorial
+      word3: GG translate
+  layouts:
+    application:
+      title: "Ruby on Rails Tutorial Sample App"
+    footer:
+      the: "The Ruby on Rails Tutorial"
+      by: "by Michael Hartl"
+      about: "about"
+      contact: "contact"
+      new: "new"
+    header:
+      sample_app: "SAMPLE APP"
       home: "Home"
-      sample_app: "Sample app"
-      content_html: "This is the home page for the %{link1} sample application."    
+      help: "Help"
+      log_in: "Login"
