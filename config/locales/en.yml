@@ -1,7 +1,7 @@
 en:
   static_pages:
     home:
-      home: "home"
+      home: "Home"
       This_is: "This is the home page for the "
       sample_application: "sample application."
       Welcome_to: "Welcome to the Sample App"
