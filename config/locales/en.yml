@@ -27,3 +27,18 @@ en:
       home: "Home"
       help: "Help"
       log_in: "Login"
+  users:
+    new:
+      sign_up: "Sign up"
+      name: "Name"
+      email: "Email"
+      password: "Password"
+      password_confirmation: "Password confirmation"
+      Create my account: "Create my account"
+  shared:
+    error_messages:
+      error1: "The form contains"
+      error2: "error"
+  wel_app: "Welcome to the Sample App!"
+  error_signup: "Fails"
+  not_found: "User not found"
