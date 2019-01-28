@@ -27,3 +27,19 @@ vi:
       home: "trang chủ"
       help: "giúp đỡ"
       log_in: "đăng nhập"
+  users:
+    new:
+      sign_up: "Đăng nhập"
+      name: "Họ và tên"
+      email: "Địa chỉ mail"
+      password: "Mật khẩu"
+      password_confirmation: "Xác nhận mật khẩi"
+      Create my account: "Tạo tài khoản của tôi"
+  shared:
+    error_messages:
+      error1: "Biểu mẫu có chứa"
+      error2: "lỗi"
+  wel_app: "Chào mừng bạn đến với Ứng dụng mẫu!"
+  error_signup: "Thất bại"
+  not_found: "Không tìm thấy người dùng"
+  
