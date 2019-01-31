@@ -3,3 +3,4 @@
   max_lenght_password: 6
 user_helpper:
   size: 80
+  remember_number: 1
