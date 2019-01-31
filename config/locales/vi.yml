@@ -1,7 +1,7 @@
 vi:
   static_pages:
     home: 
-      home: "Trang chu"
+      home: "Trang chủ"
       This_is: "Đây là trang chủ cho"
       sample_application: "ứng dụng mẫu."
       Welcome_to: "Chào mừng đến với ứng dụng mẫu"
@@ -13,6 +13,10 @@ vi:
     about:
       word1: "tài liệu Ruby on Rails"
       word3: "GG dịch"
+    contact:
+      contact: "Liên hệ"
+      content_page: "Nội dung trang"
+      contact_html: "liên hệ"
   layouts:
     application:
       title: "ứng dụng mẫu của Ruby on Rails"
@@ -27,6 +31,18 @@ vi:
       home: "trang chủ"
       help: "giúp đỡ"
       log_in: "đăng nhập"
+      account: "Tài khoản"
+      users: "Người dùng"
+      profile: "Thông tin"
+      settings: "Cài đặt"
+      log_out: "Đăng xuất"
+  sessions:
+    new:
+      email: "Địa chỉ email"
+      pass: "Mật khẩu"
+      log_in: "Đăng nhập"
+      new_user: "Tạo người dùng mới?"
+      sign_up_now: "Đăng ký ngay!"
   users:
     new:
       sign_up: "Đăng nhập"
@@ -42,4 +58,4 @@ vi:
   wel_app: "Chào mừng bạn đến với Ứng dụng mẫu!"
   error_signup: "Thất bại"
   not_found: "Không tìm thấy người dùng"
-  
+  invalid_email_password: "Email / mật khẩu không hợp lệ"

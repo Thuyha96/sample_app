@@ -13,6 +13,10 @@ en:
     about:
       word1: The Ruby on Rails Tutorial
       word3: GG translate
+    contact:
+      contact: "Contact"
+      content_page: "content page"
+      contact_html: "contact"
   layouts:
     application:
       title: "Ruby on Rails Tutorial Sample App"
@@ -27,6 +31,18 @@ en:
       home: "Home"
       help: "Help"
       log_in: "Login"
+      account: "Account"
+      users: "Users"
+      profile: "Profile"
+      settings: "Settings"
+      log_out: "Log out"
+  sessions:
+    new:
+      email: "Email"
+      pass: "Password"
+      log_in: "Log in"
+      new_user: "New user?"
+      sign_up_now: "Sign up now!"
   users:
     new:
       sign_up: "Sign up"
@@ -42,3 +58,4 @@ en:
   wel_app: "Welcome to the Sample App!"
   error_signup: "Fails"
   not_found: "User not found"
+  invalid_email_password: "Invalid email/password combination"
