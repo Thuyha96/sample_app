@@ -47,11 +47,22 @@ en:
   users:
     new:
       sign_up: "Sign up"
+      create_acc: "Create my account"
+    form:
       name: "Name"
       email: "Email"
       password: "Password"
       password_confirmation: "Password confirmation"
-      Create my account: "Create my account"
+    edit:
+      edit_user: "Edit user"
+      save_changes: "Save changes"
+      update_profile: "Update your profile"
+      change: "Change"
+    index:
+      all_users: "All users"
+    user:
+      delete: "Delete"
+      sure: "You sure?"
   shared:
     error_messages:
       error1: "The form contains"
@@ -60,3 +71,8 @@ en:
   error_signup: "Fails"
   not_found: "User not found"
   invalid_email_password: "Invalid email/password combination"
+  pro_updated: "Profile updated"
+  pro_fail: "update profile failed"
+  please_login: "Please log in."
+  user_deleted: "User deleted"
+  del_fail: "Delete fail"

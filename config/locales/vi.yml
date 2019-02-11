@@ -47,11 +47,22 @@ vi:
   users:
     new:
       sign_up: "Đăng nhập"
+      create_acc: "Tạo tài khoản của tôi"
+    form:
       name: "Họ và tên"
       email: "Địa chỉ mail"
       password: "Mật khẩu"
-      password_confirmation: "Xác nhận mật khẩi"
-      Create my account: "Tạo tài khoản của tôi"
+      password_confirmation: "Xác nhận mật khẩủ"
+    edit:
+      edit_user: "Chỉnh sửa người dùng"
+      save_changes: "Lưu các thay đổi"
+      update_profile: "Cập nhật thông tin của bạn"
+      change: "Thay đổi"
+    index:
+      all_users: "Tất cả người dùng"
+    user:
+      delete: "Xóa"
+      sure: "Bạn chắc chứ?"
   shared:
     error_messages:
       error1: "Biểu mẫu có chứa"
@@ -60,3 +71,8 @@ vi:
   error_signup: "Thất bại"
   not_found: "Không tìm thấy người dùng"
   invalid_email_password: "Email / mật khẩu không hợp lệ"
+  pro_updated: "Hồ sơ đã cập nhật"
+  pro_fail: "cập nhật hồ sơ thất bại"
+  please_login: "Làm ơn đăng nhập"
+  user_deleted: "Đã xóa"
+  del_fail: "Xóa thất bại"
