@@ -1,6 +1,10 @@
+user_validates: 
   max_lenght_name: 50
   max_lenght_email: 255
   max_lenght_password: 6
-user_helpper:
+user_helper:
   size: 80
-  remember_number: 1
+remember_number: 1
+number_page: 6
+size_image: 50
+
