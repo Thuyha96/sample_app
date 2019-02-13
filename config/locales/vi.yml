@@ -76,3 +76,14 @@ vi:
   please_login: "Làm ơn đăng nhập"
   user_deleted: "Đã xóa"
   del_fail: "Xóa thất bại"
+  acc_activated: "Tài khoản đã được kích hoạt!"
+  inv_act_link: "Liên kết kích hoạt không hợp lệ"
+  acc_not_activated: "Tài khoản chưa được kích hoạt. Kiểm tra email của bạn cho các liên kết kích hoạt."
+  please_chk_email: "Hãy kiểm tra email của bạn để kích hoạt tài khoản của bạn."
+  acc_activation: "Kích hoạt tài khoản"
+  user_mailer:
+    account_activation:
+      sample_app: "Ứng dụng mẫu"
+      hi: "Chào,"
+      click_on_link: "Chào mừng bạn đến với Ứng dụng mẫu! Nhấp vào liên kết dưới đây để kích hoạt tài khoản của bạn:"
+      activate: "Kích hoạt"

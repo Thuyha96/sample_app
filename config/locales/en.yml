@@ -76,3 +76,14 @@ en:
   please_login: "Please log in."
   user_deleted: "User deleted"
   del_fail: "Delete fail"
+  acc_activated: "Account activated!"
+  inv_act_link: "Invalid activation link"
+  acc_not_activated: "Account not activated. Check your email for the activation link."
+  please_chk_mail: "Please check your email to activate your account."
+  acc_activation: "Account activation"
+  user_mailer:
+    account_activation:
+      sample_app: "Sample_app"
+      hi: "Hi,"
+      click_on_link: "Welcome to the Sample App! Click on the link below to activate your account:"
+      activate: "Activate"
