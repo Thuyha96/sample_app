@@ -44,6 +44,7 @@ vi:
       new_user: "Tạo người dùng mới?"
       sign_up_now: "Đăng ký ngay!"
       remember_me: "Hãy nhớ tôi trên máy tính này"
+      forgot_pasword: "Quên mật khẩu"
   users:
     new:
       sign_up: "Đăng nhập"
@@ -87,3 +88,21 @@ vi:
       hi: "Chào,"
       click_on_link: "Chào mừng bạn đến với Ứng dụng mẫu! Nhấp vào liên kết dưới đây để kích hoạt tài khoản của bạn:"
       activate: "Kích hoạt"
+  password_resets:
+    edit:
+      reset_password: "Đặt lại mật khẩu"
+      password: "Mật khẩu"
+      update_password: "Cập nhật mật khẩu"
+      confirmation: "Xác nhận"
+    new:
+      forgot_pasword: "Quên mật khẩu"
+      email: "Email"
+      submit: "Gửi đi"
+  email_sent: "Email được gửi với hướng dẫn đặt lại mật khẩu"
+  pass_reset: "Đặt lại mật khẩu"
+  email_not_found: "Email không tìm thấy"
+  pw_reset: "Mật khẩu đã được đặt lại."
+  pw_expired: "Đặt lại mật khẩu đã hết hạn."
+  click_reset_pw: "Để đặt lại mật khẩu của bạn, nhấp vào liên kết dưới đây:"
+  this_link_expire: "Liên kết này sẽ hết hạn trong hai giờ."
+  not_request_reset: "Nếu bạn không yêu cầu đặt lại mật khẩu, vui lòng bỏ qua email này và mật khẩu của bạn sẽ được giữ nguyên."

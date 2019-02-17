@@ -44,6 +44,7 @@ en:
       new_user: "New user?"
       sign_up_now: "Sign up now!"
       remember_me: "Remember me on this computer"
+      forgot_pasword: "forgot password"
   users:
     new:
       sign_up: "Sign up"
@@ -87,3 +88,21 @@ en:
       hi: "Hi,"
       click_on_link: "Welcome to the Sample App! Click on the link below to activate your account:"
       activate: "Activate"
+  password_resets:
+    edit:
+      reset_password: "Reset password"
+      password: "Password"
+      update_password: "Update password"
+      confirmation: "Confirmation"
+    new:
+      forgot_pasword: "forgot password"
+      email: "Email"
+      submit: "Submit"
+  email_sent: "Email sent with password reset instructions"
+  pass_reset: "Password reset"
+  email_not_found: "Email address not found"
+  pw_reset: "Password has been reset."
+  pw_expired: "Password reset has expired."
+  click_reset_pw: "To reset your password click the link below:"
+  this_link_expire: "This link will expire in two hours."
+  not_request_reset: "If you did not request your password to be reset, please ignore this email and your password will stay as it is."
