@@ -7,3 +7,4 @@ user_helper:
 remember_number: 1
 number_page: 6
 size_image: 50
+time_expiration: 2
